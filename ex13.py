@@ -4,8 +4,14 @@ from sys import argv
 
 fourth = input("Input a variable: ") 
 script, first, second, third, fourth = argv
+
 print("The script is called:", script)
 print("Your first variable is:", first)
 print("Your second variable is:", second)
 print("Your third variable is:", third)
 print("Your fourth variable is:", fourth)
+
+def fifth_variable(var):
+    print(f"Your fifth variable is: {var}")
+    
+fifth_variable("fifth")
