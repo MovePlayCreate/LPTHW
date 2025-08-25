@@ -1,3 +1,4 @@
+import math
 from sys import argv
 # read the WYSS section for how to run this
 #script, first, second, third = argv
@@ -15,3 +16,7 @@ def fifth_variable(var):
     print(f"Your fifth variable is: {var}")
     
 fifth_variable("fifth")
+
+reps = 21
+half_that = math.floor(reps / 2)
+print(half_that)
