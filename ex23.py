@@ -1,3 +1,5 @@
+import pandas
+
 fruit = [
     ['Apples', 12, 'AAA'], ['Oranges', 1, 'B'], 
     ['Pears', 2, 'A'], ['Grapes', 14, 'UR']]
@@ -16,3 +18,6 @@ languages = [
     ['C'. ['Fast', ['Annoying', 'Dangerous']]],
     ['Forth', ['Fast', ['Fun', 'Difficult']]],
 ]
+
+#testing this code from memory from phone check
+data = pandas.list_tocsv(fruit)
