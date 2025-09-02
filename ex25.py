@@ -1,5 +1,8 @@
 def run():
     print("VROOM")
+    
+def check():
+    print("pressure")
 
 corvette = {
     "color": "Red",
@@ -9,6 +12,8 @@ corvette = {
 print("My", corvette["color"], "can go")
 corvette["run"]()
 
+#added line from Bonaire
+print(f"To go {corvette["run"]} better check the tire {check()}) 
 
 def create_car(color, transmission, gas_mileage):
     specs = {
