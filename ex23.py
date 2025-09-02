@@ -19,5 +19,6 @@ languages = [
     ['Forth', ['Fast', ['Fun', 'Difficult']]],
 ]
 
+#I would like to turn a list into a pandas database
 #testing this code from memory from phone check
 data = pandas.list_tocsv(fruit)
