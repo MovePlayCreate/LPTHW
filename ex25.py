@@ -24,6 +24,7 @@ def create_car(color, transmission, gas_mileage):
 
 volkswagen = create_car("black", "auto", 32)
 toyota = create_car("red", "manual", 29)
+honda = create_car("blue", "manual", 35)
 
 print(volkswagen)
 volkswagen["color"] = "silver"
