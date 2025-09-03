@@ -22,6 +22,7 @@ def create_car(color, transmission, gas_mileage):
         "gas mileage" = gas_mileage
 }
 
+#would like to work on this with classes and OOP
 volkswagen = create_car("black", "auto", 32)
 toyota = create_car("red", "manual", 29)
 honda = create_car("blue", "manual", 35)
