@@ -1,6 +1,8 @@
 #check the initialize syntax
-class person():
+class person(name, height, weight):
     self.__init__()
-    self.name = "Patrick"
-    self.height = 71
+    self.name = name
+    self.height = height
+    self.weight = weight
+    self.attitude = ambitious
 
