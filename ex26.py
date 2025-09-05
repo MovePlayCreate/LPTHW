@@ -5,4 +5,6 @@ class person(name, height, weight):
     self.height = height
     self.weight = weight
     self.attitude = ambitious
+    
+patrick = Person("Patrick",71,188)
 
