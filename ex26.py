@@ -10,3 +10,5 @@ patrick = Person("Patrick",71,188)
 kayti = Person("Kayti", 63, 130)
 
 print(patrick.attitude)
+kayti.attitude = curious
+print(kayti.attitude)
