@@ -4,11 +4,11 @@ class person(name, height, weight):
     self.name = name
     self.height = height
     self.weight = weight
-    self.attitude = ambitious
+    self.attitude = "ambitious"
     
 patrick = Person("Patrick",71,188)
 kayti = Person("Kayti", 63, 130)
 
 print(patrick.attitude)
-kayti.attitude = curious
+kayti.attitude = "curious"
 print(kayti.attitude)
