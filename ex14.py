@@ -21,3 +21,4 @@ And you have a {computer} computer. Nice.
 """)
 
 help = input("What else can I help you with?")
+print(help)
