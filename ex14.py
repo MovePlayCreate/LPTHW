@@ -20,5 +20,6 @@ You live in {lives}. Not sure where that is.
 And you have a {computer} computer. Nice.
 """)
 
+# play more with argv
 help = input("What else can I help you with?")
 print(help)
