@@ -21,6 +21,7 @@ out_file.write(indata)
 
 print("Alright, all done.")
 print("Fo real!")
+print("Over and out")
 
 out_file.close()
 in_file.close()
