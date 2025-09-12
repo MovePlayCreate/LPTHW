@@ -13,3 +13,4 @@ print(patrick.attitude)
 kayti.attitude = "curious"
 print(kayti.attitude)
 patrick.weight = 190
+patrick.dives = 41
