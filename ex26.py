@@ -16,3 +16,5 @@ print(kayti.attitude)
 # playing with class systems
 patrick.weight = 190
 patrick.dives = 41
+
+ryan = Person("Ryan", 70, 155)
