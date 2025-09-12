@@ -12,5 +12,7 @@ kayti = Person("Kayti", 63, 130)
 print(patrick.attitude)
 kayti.attitude = "curious"
 print(kayti.attitude)
+
+# playing with class systems
 patrick.weight = 190
 patrick.dives = 41
