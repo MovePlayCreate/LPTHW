@@ -12,3 +12,4 @@ kayti = Person("Kayti", 63, 130)
 print(patrick.attitude)
 kayti.attitude = "curious"
 print(kayti.attitude)
+patrick.weight = 190
