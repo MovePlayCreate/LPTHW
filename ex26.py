@@ -18,3 +18,4 @@ patrick.weight = 190
 patrick.dives = 41
 
 ryan = Person("Ryan", 70, 155)
+ryan.height = 71
