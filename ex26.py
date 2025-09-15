@@ -20,4 +20,4 @@ patrick.dives = 41
 ryan = Person("Ryan", 70, 155)
 ryan.height = 71
 ryan.weight = 150
-ryan.career = tech
+ryan.career = "tech"
