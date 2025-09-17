@@ -29,4 +29,4 @@ if people == dogs:
     print("People are dogs.")
     
 if cats > dogs:
-    print("Oh no! I'm a dog person overrun woth cats!")
+    print("Oh no! I'm a dog person overrun with cats!")
