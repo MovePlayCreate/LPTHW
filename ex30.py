@@ -39,3 +39,4 @@ if dogs > cats:
     
 print(f"Cats : {cats}")
 print(f"Dogs : {dogs}")
+print(f"People : {people}")
