@@ -1,7 +1,7 @@
 import ex26
 from pprint import pprint
 
-
+#coding practice
 # pprint(ex26.__dict__)
 
 # print("height is", ex26.height)
