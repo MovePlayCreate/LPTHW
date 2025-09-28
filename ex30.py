@@ -37,7 +37,7 @@ if cats > dogs:
 if dogs > cats:
     print("It's a dog eat dog world out there!")
     
-# inventory 
+# taking inventory 
 print(f"Cats : {cats}")
 print(f"Dogs : {dogs}")
 print(f"People : {people}")
