@@ -30,7 +30,7 @@ if people <= dogs:
 if people == dogs:
     print("People are dogs.")
     
-cats += 5
+cats += 7
 
 
 if cats > dogs:
