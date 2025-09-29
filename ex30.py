@@ -4,6 +4,8 @@ dogs = 15
 turtles = 15
 octopus = 5
 
+if turtles > octopus:
+    print("Turtle power!")
 
 if people < cats:
     print("Too many cats! The world is doomed!")
