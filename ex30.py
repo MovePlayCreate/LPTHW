@@ -19,7 +19,7 @@ if people > dogs:
 
 
 dogs += 5
-#edit
+
 if people >= dogs:
     print("People are greater than or equal to dogs.")
 
