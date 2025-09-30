@@ -7,6 +7,9 @@ octopus = 7
 if turtles > octopus:
     print("Turtle power!")
 
+if turtles + octopus > people:
+    print("Under the sea!")
+
 if people < cats:
     print("Too many cats! The world is doomed!")
 
