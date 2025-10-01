@@ -22,7 +22,7 @@ if people < dogs:
 if people > dogs:
     print("The world is dry!")
 
-
+# found more dogs
 dogs += 5
 
 if people >= dogs:
