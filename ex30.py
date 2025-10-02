@@ -38,7 +38,7 @@ if people == dogs:
     print("People are dogs.")
     
 cats += 7
-
+sharks += 1
 
 if cats > dogs:
     print("Oh no! I'm a dog person overrun with cats!")
