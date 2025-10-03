@@ -1,5 +1,5 @@
 #animals
-people = 20
+people = 21
 cats = 30
 dogs = 15
 turtles = 15
