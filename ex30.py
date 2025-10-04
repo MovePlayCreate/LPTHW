@@ -12,6 +12,9 @@ if turtles > octopus:
 if turtles + octopus > people:
     print("Under the sea!")
 
+if sharks > 0:
+    print("Keep your eyes peeled I want to see that!")
+
 if people < cats:
     print("Too many cats! The world is doomed!")
 
