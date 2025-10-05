@@ -4,7 +4,7 @@ cats = 30
 dogs = 15
 turtles = 15
 octopus = 7
-sharks = 3
+sharks = 5
 
 if turtles > octopus:
     print("Turtle power!")
