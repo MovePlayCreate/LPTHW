@@ -42,7 +42,7 @@ if people == dogs:
     print("Not really. And they are!")
     
 cats += 5
-sharks += 2
+sharks += 3
 
 if cats > dogs:
     print("Oh no! I'm a dog person overrun with cats!")
