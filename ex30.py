@@ -4,7 +4,7 @@ cats = 30
 dogs = 15
 turtles = 13
 octopus = 7
-sharks = 7
+sharks = 5
 rays = 5
 
 if turtles > octopus:
