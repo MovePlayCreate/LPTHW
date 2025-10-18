@@ -5,7 +5,7 @@ dogs = 15
 turtles = 13
 octopus = 11
 sharks = 7
-rays = 3
+rays = 5
 dolphins = 5
 
 if turtles > octopus:
