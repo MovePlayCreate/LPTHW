@@ -4,7 +4,7 @@ cats = 30
 dogs = 15
 turtles = 13
 octopus = 11
-sharks = 7
+sharks = 9
 rays = 5
 dolphins = 5
 
