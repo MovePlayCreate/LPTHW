@@ -30,7 +30,7 @@ if people > dogs:
     print("The world is dry!")
 
 dogs += 5
-people += 2
+people += 3
 
 if people >= dogs:
     print("People are greater than or equal to dogs.")
