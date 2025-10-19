@@ -43,7 +43,7 @@ if people == dogs:
     print("People are dogs.")
     print("Not really. And they are!")
     
-cats += 5
+cats += 6
 sharks += 4
 
 if cats > dogs:
