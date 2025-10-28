@@ -6,7 +6,7 @@ turtles = 15
 octopus = 11
 sharks = 9
 rays = 9
-dolphins = 5
+dolphins = 7
 shrimp = 5
 
 if turtles > octopus:
