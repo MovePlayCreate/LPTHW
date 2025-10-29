@@ -7,7 +7,8 @@ octopus = 11
 sharks = 11
 rays = 9
 dolphins = 7
-shrimp = 5
+shrimp = 7
+
 
 if turtles > octopus:
     print("Turtle power!")
