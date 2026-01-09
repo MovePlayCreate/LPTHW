@@ -5,7 +5,7 @@ dogs = 15
 turtles = 10
 octopus = 3
 sharks = 9
-rays = 9
+rays = 7
 dolphins = 9
 shrimp = 11
 
