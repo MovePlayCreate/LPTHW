@@ -1,7 +1,7 @@
 #animals
 people = 20
 cats = 30
-dogs = 15
+dogs = 13
 turtles = 9
 octopus = 11
 sharks = 9
