@@ -7,7 +7,7 @@ octopus = 7
 sharks = 11
 rays = 9
 dolphins = 7
-shrimp = 9
+shrimp = 7
 
 anemone = 7
 
