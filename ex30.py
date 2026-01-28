@@ -4,10 +4,10 @@ cats = 30
 dogs = 13
 turtles = 9
 octopus = 7
-sharks = 10
-rays = 11
+sharks = 21
+rays = 24
 dolphins = 24
-shrimp = 21
+shrimp = 19
 
 anemone = 7
 
