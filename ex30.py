@@ -6,7 +6,7 @@ turtles = 19
 octopus = 13
 sharks = 17
 rays = 23
-dolphins = 9
+dolphins = 11
 shrimp = 3
 anemone = 15
 
