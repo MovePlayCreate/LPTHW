@@ -59,5 +59,5 @@ print(f"Cats: {cats}")
 print(f"Dogs: {dogs}")
 print(f"People: {people}")
 print(f"Turtles: {turtles}")
-
+# print(f"Sharks) finish this
 print(f"Total animals equals {cats + dogs + people + turtles}")
