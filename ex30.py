@@ -8,7 +8,7 @@ sharks = 21
 rays = 17
 dolphins = 9
 shrimp = 23
-anemone = 7
+anemone = 9
 
 
 if turtles > octopus:
