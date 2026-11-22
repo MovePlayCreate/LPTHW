@@ -2,7 +2,7 @@
 people = 20
 cats = 30
 dogs = 10
-turtles = 17
+turtles = 19
 octopus = 16
 sharks = 3
 rays = 17
